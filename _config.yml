@@ -6,3 +6,4 @@ collections:
     output: true
     permalink: /:collection/:year/:month/:slug/
     
+theme: jekyll-theme-cayman
