@@ -31,7 +31,6 @@ collections:
   products:
     _hide_content: true
     output: true
-<<<<<<< HEAD
 
 permalink: pretty
 
@@ -96,8 +95,3 @@ _comments:
   color: The background color used in the plan name and call to action.
   new_window: Open link in new window
   description: This is used for facebook shares of the page and google indexing
-=======
-    permalink: /:collection/:year/:month/:slug/
-    
-theme: jekyll-theme-cayman
->>>>>>> 8a5a64e1f23b4b43b4bc8f19fef8fef4ce34d7fa
